@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T04:01:06.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="t58G1w4GZpl87jR6u7zb" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-04T05:40:51.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="K7j9mDlCx0ggIdws5B0z" version="12.1.9" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,6 +101,12 @@
         </mxCell>
         <mxCell id="zEvsNkEJzdcjlOM2abnc-77" value="不合格的审核任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zEvsNkEJzdcjlOM2abnc-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="115" width="380" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="zEvsNkEJzdcjlOM2abnc-86" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="400" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
